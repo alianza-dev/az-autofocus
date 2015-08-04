@@ -1,0 +1,12 @@
+{
+  "extends": "./node_modules/kcd-common-tools/shared/.eslintrc",
+  "globals": {
+    "describe": false,
+    "beforeEach": false,
+    "afterEach": false,
+    "inject": false,
+    "it": false,
+    "expect": false,
+    "sinon": false
+  }
+}
